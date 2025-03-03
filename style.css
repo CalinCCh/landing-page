@@ -147,12 +147,11 @@ img {
 
 .square {
     height: 200px;
-}
-
-.square img {
     border: 3px solid #3882F6;
     border-radius: 20px;
+    overflow: hidden; 
 }
+
 
 .square-container p {
     text-align: center;
